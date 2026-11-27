@@ -91,9 +91,9 @@ Work is tracked on the [NextCode project board](https://github.com/users/Mohamme
 
 | Sprint | Dates | Goal | Items | Points |
 |---|---|---|---|---|
-| Sprint 1 | Oct 27 – Nov 9, 2026 | Core inventory | [US-01](../../issues/2) Add food products · [US-02](../../issues/3) View food inventory · [US-03](../../issues/4) Track expiry dates · [US-06](../../issues/7) Update product quantities | 16 |
-| Sprint 2 | Nov 10 – Nov 23, 2026 | Expiry alerts, security, performance | [US-04](../../issues/5) Expiry notifications · [US-05](../../issues/6) Identify expired products · [NFR-03](../../issues/8) Secure restricted functions · [NFR-01](../../issues/9) Page response time | 14 |
-| Sprint 3 | Nov 24 – Dec 7, 2026 | Reports, administration, release readiness | [US-07](../../issues/10) Inventory reports · [US-08](../../issues/11) Manage user access · [NFR-02](../../issues/12) Availability · [NFR-04](../../issues/13) Usability testing · [NFR-05](../../issues/14) Record retention | 18 |
+| Sprint 1 | Oct 27 – Nov 9, 2026 | Core inventory | [US-01](https://github.com/MohammedAbdullah250/NextCode/issues/2) Add food products · [US-02](https://github.com/MohammedAbdullah250/NextCode/issues/3) View food inventory · [US-03](https://github.com/MohammedAbdullah250/NextCode/issues/4) Track expiry dates · [US-06](https://github.com/MohammedAbdullah250/NextCode/issues/7) Update product quantities | 16 |
+| Sprint 2 | Nov 10 – Nov 23, 2026 | Expiry alerts, security, performance | [US-04](https://github.com/MohammedAbdullah250/NextCode/issues/5) Expiry notifications · [US-05](https://github.com/MohammedAbdullah250/NextCode/issues/6) Identify expired products · [NFR-03](https://github.com/MohammedAbdullah250/NextCode/issues/8) Secure restricted functions · [NFR-01](https://github.com/MohammedAbdullah250/NextCode/issues/9) Page response time | 14 |
+| Sprint 3 | Nov 24 – Dec 7, 2026 | Reports, administration, release readiness | [US-07](https://github.com/MohammedAbdullah250/NextCode/issues/10) Inventory reports · [US-08](https://github.com/MohammedAbdullah250/NextCode/issues/11) Manage user access · [NFR-02](https://github.com/MohammedAbdullah250/NextCode/issues/12) Availability · [NFR-04](https://github.com/MohammedAbdullah250/NextCode/issues/13) Usability testing · [NFR-05](https://github.com/MohammedAbdullah250/NextCode/issues/14) Record retention | 18 |
 
 All **Must** items are completed by the end of Sprint 2; Sprint 3 holds the **Should** items.
 
