@@ -87,7 +87,7 @@ The full requirements specification is in [`Requirements/FreshTrack_Project.docx
 
 ## Sprint plan
 
-Work is tracked on the [NextCode project board](https://github.com/users/MohammedAbdullah250/projects/7), with one issue per backlog item. The backlog totals **48 story points** across three two-week sprints.
+Work is tracked on the [NextCode project board](https://github.com/users/BawanXg/projects/1), with one issue per backlog item. The backlog totals **48 story points** across three two-week sprints.
 
 | Sprint | Dates | Goal | Items | Points |
 |---|---|---|---|---|
